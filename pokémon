@@ -1,0 +1,17 @@
+
+Name Bulbasaur
+Weight 15.2#
+LinkEvolvesTo Ivysaur
+URL https://www.pokemon.com/us/pokedex/bulbasaur?7211835
+
+Name Ivysaur
+Weight 28.7#
+LinkEvolvesTo Venusaur
+LinkEvolvesFrom Bulbasaur
+URL https://www.pokemon.com/us/pokedex/ivysaur?7211835
+
+Name Venusaur
+Weight 220.5#
+LinkEvolvesFrom Ivysaur
+URL https://www.pokemon.com/us/pokedex/venusaur?7211835
+

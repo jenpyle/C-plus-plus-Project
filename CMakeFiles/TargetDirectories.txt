@@ -1,0 +1,5 @@
+/s/bach/k/under/jenpyle/CS253/HW8/CMakeFiles/rebuild_cache.dir
+/s/bach/k/under/jenpyle/CS253/HW8/CMakeFiles/edit_cache.dir
+/s/bach/k/under/jenpyle/CS253/HW8/CMakeFiles/hw8.tar.dir
+/s/bach/k/under/jenpyle/CS253/HW8/CMakeFiles/hw8.dir
+/s/bach/k/under/jenpyle/CS253/HW8/CMakeFiles/test.dir

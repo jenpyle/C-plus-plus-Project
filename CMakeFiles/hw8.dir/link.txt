@@ -1,0 +1,2 @@
+/bin/ar qc libhw8.a  CMakeFiles/hw8.dir/Enemy.cc.o CMakeFiles/hw8.dir/Gallery.cc.o
+/bin/ranlib libhw8.a

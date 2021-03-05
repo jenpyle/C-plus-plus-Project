@@ -1,0 +1,1 @@
+/bin/c++     CMakeFiles/test.dir/test.cc.o  -o test libhw8.a 
